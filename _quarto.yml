@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "lmbandi.github.io"
+  title: "Laura M. Bandi"
   navbar:
     left:
       - href: index.qmd
@@ -11,9 +12,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: zephyr
+      dark: vapor
     css: styles.css
     toc: true
-
-editor: visual
-
+    page-layout: full
