@@ -12,9 +12,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: zephyr
-      dark: vapor
+    theme: quartz
     css: styles.css
     toc: true
     page-layout: full
