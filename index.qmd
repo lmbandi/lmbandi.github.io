@@ -2,15 +2,15 @@
 title: "Laura M. Bandi"
 image: IMG_5812.jpeg
 toc: false
-about: 
-3  template: solana
-4  image-shape: rectangle
+about:
+  template: solana
+  image-shape: rectangle
   image-width: 17em
-5  links:
+  links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/laurambandi/
     - text: Email
-      href: mailto::lbandi@torontomu.ca
+      href: mailto:lbandi@torontomu.ca
 ---
 
 This is a Quarto website.
