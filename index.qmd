@@ -1,0 +1,27 @@
+---
+title: "Laura M. Bandi"
+image: IMG_5812.jpeg
+toc: false
+about:
+  template: solana
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/laurambandi/
+    - text: Email
+      href: mailto:lbandi@torontomu.ca
+---
+
+<br>
+
+Hi there! My name is Laura Bandi and I am a first-year PhD student in Psychological Science at Toronto Metropolitan University (TMU) studying under the supervision of Dr. Alyssa Counsell in the Psychology And Statistics Education Research (PASER) Lab. 
+
+**Research Interests** 
+
+- Differences in statistical literacy across fields of study and education levels
+- Post-secondary students' self-efficacy in learning statistics and attitudes towards statistics
+- Improving statistics and research methods courses in the social sciences
+- Psychometrics and scale development
+- Scholarship of teaching and learning
+---
