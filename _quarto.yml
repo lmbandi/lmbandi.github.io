@@ -8,16 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - edu.qmd
-      - research.qmd
-      - teaching.qmd 
-      - paser.qmd
+      - href: edu.qmd
+        text: Education
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: paser.qmd
+        text: PASER Lab
 
 format:
   html:
     theme:
-      light: pulse 
-      dark: cyborg
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: false
     page-layout: full

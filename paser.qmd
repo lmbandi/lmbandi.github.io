@@ -4,8 +4,8 @@ image: PASER.png
 toc: false
 about:
   template: marquee
-  image-shape: rectangle
-  image-width: 36em
+  image-shape: rectangle  # or square if preferred
+  image-width: 35em       # sets the image width to be responsive
 ---
 
 To learn more about Dr. Counsell's research, visit the [PASER Lab Website](https://www.psystat.org)
