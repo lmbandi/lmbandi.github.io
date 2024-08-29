@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Laura Bandi"
+  title: "Laura M. Bandi"
   navbar:
     left:
       - href: index.qmd
