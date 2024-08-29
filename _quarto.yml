@@ -19,5 +19,5 @@ format:
       light: pulse 
       dark: cyborg
     css: styles.css
-    toc: true
+    toc: false
     page-layout: full

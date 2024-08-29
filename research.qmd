@@ -4,52 +4,57 @@ title: "Research"
 
 ## Manuscripts In Preparation
 
-- Counsell, A., Halili-Sychangco, D., Crone, G., & **Bandi, L.** (in prep). *Statistics courses in psychology undergraduate programs: A review of Canadian institutions.* Target outlet: Canadian Psychology
+Counsell, A., Halili-Sychangco, D., Crone, G., & **Bandi, L.** (in prep). Statistics courses in psychology undergraduate programs: A review of Canadian institutions. Target outlet: Canadian Psychology
 
 ## Presentations
 
-- **Bandi, L.**, Halili-Sychangco, D., Crone, G., & Counsell, A. (2024, June 21-23). *The state of undergraduate statistics courses: Are we teaching modern skills in psychology?* In R. Cribbie (Chair), Rethinking the Teaching of Statistics for Student Betterment [Symposium]. 85th Annual Canadian Psychological Association Convention, Ottawa, ON, Canada.
+**Bandi, L.**, Halili-Sychangco, D., Crone, G., & Counsell, A. (2024, June 21-23). The state of undergraduate statistics courses: Are we teaching modern skills in psychology? In R. Cribbie (Chair), *Rethinking the Teaching of Statistics for Student Betterment* [Symposium]. 85th Annual Canadian Psychological Association Convention, Ottawa, ON, Canada.
 
-- **Bandi, L.** (2024, March 26). *Exploring statistical literacy: Measures, psychological factors, and pedagogical approaches* [Area talk]. Toronto Metropolitan University Social Area Meeting (SAM), Toronto, ON, Canada.
+**Bandi, L.** (2024, March 26). *Exploring statistical literacy: Measures, psychological factors, and pedagogical approaches* [Area talk]. Toronto Metropolitan University Social Area Meeting (SAM), Toronto, ON, Canada.
 
 ## Posters
 
-- Counsell, A., **Bandi, L.**, Loock, J., Herbert, M., & Martin, J. (2023, December 13-14). *Using jamovi to support equitable access and learning in undergraduate statistics courses* [Poster Presentation]. PsychTERMS 2023 Virtual Conference.
+Counsell, A., **Bandi, L.**, Loock, J., Herbert, M., & Martin, J. (2023, December 13-14). *Using jamovi to support equitable access and learning in undergraduate statistics courses* [Poster Presentation]. PsychTERMS 2023 Virtual Conference.
 
-## Research Assistantships
+## Research Experience
 
-**Graduate Research Assistant**  
-*Undergraduate Mathematics Education Lab – Toronto Metropolitan University*  
-Sept. 2024 – Present  
-- PI: Dr. Francis Duah
+### Graduate Research Assistant
 
-**Graduate Research Assistant**  
-*PASER Lab – Toronto Metropolitan University*  
-June 2022 – Present  
-- PI: Dr. Alyssa Counsell
+**Undergraduate Mathematics Education Lab** – Toronto Metropolitan University  
+*Sept. 2024 – Present*  
+- **PI:** Dr. Francis Duah
 
-**Graduate Research Practicum Student**  
-*Mathematical Thinking Lab – Ontario Institute for Studies in Education of the University of Toronto*  
-May 2023 – July 2024  
-- PI: Dr. Zachary Hawes
+**PASER Lab** – Toronto Metropolitan University  
+*June 2022 – Present*  
+- **PI:** Dr. Alyssa Counsell
 
-**Research at York (RAY) Student & Co-Lab Manager**  
-*Social Cognition Lab – York University*  
-Sept. 2020 – Dec. 2021  
-- PI: Dr. Kerry Kawakami
+### Graduate Research Practicum Student
 
-**Specialized Honours Thesis Student**  
-*Chalmers Lab – York University*  
-Sept. 2020 – May 2021  
-- Supervisor: Dr. R. Philip Chalmers  
-- Thesis title: *The influence of extraversion on compliance with COVID-19 social restrictions*
+**Mathematical Thinking Lab** – Ontario Institute for Studies in Education of the University of Toronto  
+*May 2023 – July 2024*  
+- **PI:** Dr. Zachary Hawes
 
-**Volunteer Research Assistant**  
-*Social Cognition Lab – York University*  
-Sept. 2019 – Sept. 2020  
-- PI: Dr. Kerry Kawakami
+### Research at York (RAY) Student & Co-Lab Manager
 
-*The Mar Lab – York University*  
-- PI: Dr. Raymond Mar
+**Social Cognition Lab** – York University  
+*Sept. 2020 – Dec. 2021*  
+- **PI:** Dr. Kerry Kawakami
+
+### Specialized Honours Thesis Student
+
+**Chalmers Lab** – York University  
+*Sept. 2020 – May 2021*  
+- **Supervisor:** Dr. R. Philip Chalmers  
+- **Thesis title:** The influence of extraversion on compliance with COVID-19 social restrictions
+
+### Volunteer Research Assistant
+
+**Social Cognition Lab** – York University  
+*Sept. 2019 – Sept. 2020*  
+- **PI:** Dr. Kerry Kawakami
+
+**The Mar Lab** – York University  
+*Sept. 2019 – Sept. 2020*  
+- **PI:** Dr. Raymond Mar
 
 ---
