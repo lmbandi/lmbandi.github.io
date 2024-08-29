@@ -8,8 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - paser .qmd
+      - edu.qmd
+      - research.qmd
+      - teaching.qmd 
+      - paser.qmd
 
 format:
   html:

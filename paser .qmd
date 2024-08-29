@@ -1,7 +1,0 @@
----
-title: "PASER Lab"
-about:
-  links:
-    - text: PASER Lab
-      href: https://www.psystat.org/
----
