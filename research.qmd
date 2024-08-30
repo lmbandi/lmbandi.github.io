@@ -2,10 +2,6 @@
 title: "Research"
 ---
 
-## Manuscripts In Preparation
-
-Counsell, A., Halili-Sychangco, D., Crone, G., & **Bandi, L.** (in prep). Statistics courses in psychology undergraduate programs: A review of Canadian institutions. Target outlet: *Canadian Psychology/Psychologie canadienne*
-
 ## Presentations
 
 **Bandi, L.**, Halili-Sychangco, D., Crone, G., & Counsell, A. (2024, June 21-23). The state of undergraduate statistics courses: Are we teaching modern skills in psychology? In R. Cribbie (Chair), *Rethinking the Teaching of Statistics for Student Betterment* \[Symposium\]. 85th Annual Canadian Psychological Association Convention, Ottawa, ON, Canada.
@@ -15,6 +11,10 @@ Counsell, A., Halili-Sychangco, D., Crone, G., & **Bandi, L.** (in prep). Statis
 ## Posters
 
 Counsell, A., **Bandi, L.**, Loock, J., Herbert, M., & Martin, J. (2023, December 13-14). *Using jamovi to support equitable access and learning in undergraduate statistics courses* \[Poster Presentation\]. PsychTERMS 2023 Virtual Conference.
+
+## Manuscripts In Preparation
+
+Counsell, A., Halili-Sychangco, D., Crone, G., & **Bandi, L.** (in prep). Statistics courses in psychology undergraduate programs: A review of Canadian institutions. Target outlet: *Canadian Psychology/Psychologie canadienne*
 
 ## Research Experience
 
