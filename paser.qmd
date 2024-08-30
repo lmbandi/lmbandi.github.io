@@ -1,11 +1,8 @@
 ---
 title: "PASER Lab"
-image: PASER.png
-toc: false
-about:
-  template: marquee
-  image-shape: rectangle  # or square if preferred
-  image-width: 35em       # sets the image width to be responsive
 ---
 
-To learn more about Dr. Counsell's research, visit the [PASER Lab Website](https://www.psystat.org)
+To learn more about Dr. Counsell's research, visit the [PASER Lab Website](http://www.psystat.org).
+
+<img src="PASER.png" alt="PASER Lab" width="500"/>
+---

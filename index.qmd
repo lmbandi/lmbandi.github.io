@@ -4,18 +4,16 @@ image: IMG_5812.jpeg
 toc: false
 about:
   template: solana
-  image-shape: rectangle
+  image-shape: rounded
   image-width: 20em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/laurambandi/
     - text: Email
       href: mailto:lbandi@torontomu.ca
     - text: CV
       href: https://docs.google.com/document/d/1RNGMwu4li0EwmBQiEZKClI6UPplcm0rod36FYvKA_eU/edit?usp=sharing
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/laurambandi/
 ---
-
-<br>
 
 Hi there! My name is Laura Bandi and I am a first-year PhD student in Psychological Science at Toronto Metropolitan University (TMU) studying under the supervision of Dr. Alyssa Counsell in the Psychology And Statistics Education Research (PASER) Lab.
 
@@ -23,7 +21,7 @@ Hi there! My name is Laura Bandi and I am a first-year PhD student in Psychologi
 
 -   Differences in statistical literacy across fields of study and education levels
 
--   Post-secondary students' self-efficacy in learning statistics and their attitudes towards statistics
+-   Post-secondary students' self-efficacy in learning statistics, attitudes towards statistics, and statistics anxiety
 
 -   Improving statistics and research methods courses in the social sciences
 
