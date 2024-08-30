@@ -5,7 +5,7 @@ toc: false
 about:
   template: solana
   image-shape: rounded
-  image-width: 20em
+  image-width: 22em
   links:
     - text: Email
       href: mailto:lbandi@torontomu.ca
@@ -19,7 +19,7 @@ Hi there! My name is Laura Bandi and I am a first-year PhD student in Psychologi
 
 **Research Interests**
 
--   Differences in statistical literacy across fields of study and education levels
+-   Differences in post-secondary students' statistical literacy skills across fields of study and education level
 
 -   Post-secondary students' self-efficacy in learning statistics, attitudes towards statistics, and statistics anxiety
 
