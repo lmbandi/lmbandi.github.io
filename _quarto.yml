@@ -19,8 +19,6 @@ website:
 
 format:
   html:
-    includes:
-      in_header: <script src="https://kit.fontawesome.com/2a27c9068a.js" crossorigin="anonymous"></script>
     theme: darkly
     css: styles.css
     toc: false
