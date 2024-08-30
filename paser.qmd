@@ -1,9 +1,0 @@
----
-title: "PASER Lab"
----
-
-To learn more about Dr. Counsell's research, visit the [PASER Lab Website](http://www.psystat.org).
-
-<img src="PASER dark.png" alt="PASER Lab" width="500"/>
-
-------------------------------------------------------------------------
