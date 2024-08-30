@@ -1,13 +1,17 @@
 ---
-title: "Laura M. Bandi"
+title: "Welcome to my little corner of the internet..."
 image: IMG_5812.jpeg
 toc: false
+format:
+  html:
+    includes:
+      in_header: <script src="https://kit.fontawesome.com/2a27c9068a.js" crossorigin="anonymous"></script>
 about:
   template: solana
   image-shape: rounded
   image-width: 22em
   links:
-    - text: Email
+    - text: <i class="fas fa-envelope"></i> Email
       href: mailto:lbandi@torontomu.ca
     - text: CV
       href: https://docs.google.com/document/d/1RNGMwu4li0EwmBQiEZKClI6UPplcm0rod36FYvKA_eU/edit?usp=sharing
@@ -17,9 +21,11 @@ about:
 
 Hi there! My name is Laura Bandi and I am a first-year PhD student in Psychological Science at Toronto Metropolitan University (TMU) studying under the supervision of Dr. Alyssa Counsell in the Psychology And Statistics Education Research (PASER) Lab.
 
+When I'm not PhD-ing, you can find me perfecting my chocolate chip cookie recipe, taking off on a last minute trip, or curating playlists to match my every mood.
+
 **Research Interests**
 
--   Differences in post-secondary students' statistical literacy skills across fields of study and education level
+-   Differences in post-secondary students' statistical literacy skills across education levels and fields of study
 
 -   Post-secondary students' self-efficacy in learning statistics, attitudes towards statistics, and statistics anxiety
 
