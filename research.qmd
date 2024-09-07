@@ -12,17 +12,9 @@ title: "Research"
 
 Counsell, A., **Bandi, L.**, Loock, J., Herbert, M., & Martin, J. (2023, December 13-14). *Using jamovi to support equitable access and learning in undergraduate statistics courses* \[Poster Presentation\]. PsychTERMS 2023 Virtual Conference.
 
-## Manuscripts In Preparation
-
-Counsell, A., Halili-Sychangco, D., Crone, G., & **Bandi, L.** (in prep). Statistics courses in psychology undergraduate programs: A review of Canadian institutions. Target outlet: *Canadian Psychology/Psychologie canadienne*
-
 ## Research Experience
 
 ### Research Assistant
-
-**MathEd Lab** – Toronto Metropolitan University\
-*Sept. 2024 – Present*\
-- **PI:** Dr. Francis Duah
 
 **PASER Lab** – Toronto Metropolitan University\
 *June 2022 – Present*\
