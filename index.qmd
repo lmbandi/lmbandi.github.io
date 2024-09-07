@@ -21,9 +21,7 @@ Hi there! I'm a first-year PhD student in Psychological Science at Toronto Metro
 
 **Research Interests**
 
--   Differences in post-secondary students' statistical literacy skills across education levels and fields of study
-
--   Post-secondary students' self-efficacy in learning statistics, attitudes towards statistics, and statistics anxiety
+-   Post-secondary students' statistical literacy, self-efficacy in learning statistics, attitudes towards statistics, and statistics anxiety
 
 -   Improving statistics and research methods courses in the social sciences
 
