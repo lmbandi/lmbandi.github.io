@@ -31,7 +31,7 @@ Hi there! I'm a first-year PhD student in Psychological Science at Toronto Metro
 
     Examining how statistical literacy shapes understanding of information in politics, health, and media; developing modern, psychometrically sound tools to assess statistical literacy in the general population
 
--   **Psychometrics and Scale Development** \
+-   **Psychometrics and Scale Development**\
 
     Applying item response theory and other psychometric techniques to develop and validate tools for assessing statistical literacy and learning-related constructs
 
