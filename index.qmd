@@ -35,6 +35,6 @@ Hi there! I'm a first-year PhD student in Psychological Science at Toronto Metro
 
     Applying item response theory and other psychometric techniques to develop and validate tools for assessing statistical literacy and learning-related constructs
 
--   **Advanced Quantitative Methods in Educational Psychology**\
+-   **Advanced Statistical Methods in Educational Psychology Research**\
 
     Promoting the use of advanced statistical methods to better understand learning, development, and educational interventions
