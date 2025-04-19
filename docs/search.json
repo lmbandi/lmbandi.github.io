@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Laura M. Bandi",
     "section": "",
-    "text": "Hi there! I’m a first-year PhD student in Psychological Science at Toronto Metropolitan University (TMU) studying under the supervision of Dr. Alyssa Counsell in the Psychology And Statistics Education Research (PASER) Lab.\nResearch Interests\n\nPost-secondary students’ statistical literacy, self-efficacy in learning statistics, attitudes towards statistics, and statistics anxiety\nImproving statistics and research methods courses in the social sciences\nPsychometrics and scale development\nScholarship of teaching and learning"
+    "text": "Hi there! I’m a first-year PhD student in Psychological Science at Toronto Metropolitan University (TMU) studying under the supervision of Dr. Alyssa Counsell in the Psychology And Statistics Education Research (PASER) Lab.\nResearch Interests\n\nTeaching and Learning in Statistics and Research Methods Courses\n\nInvestigating students’ self-efficacy, anxiety, and attitudes toward statistics; studying how learners across disciplines and degree levels engage with real-world data and statistical software\n\nEvaluating instructional strategies to improve outcomes in statistics and research methods courses\nStatistical Literacy in Society\n\nExamining how statistical literacy shapes understanding of information in politics, health, and media; developing modern, psychometrically sound tools to assess statistical literacy in the general population\nPsychometrics and Scale Development\n\nApplying item response theory and other psychometric techniques to develop and validate tools for assessing statistical literacy and learning-related constructs\nAdvanced Statistical Methods in Educational Psychology Research\n\nPromoting the use of advanced statistical methods to better understand learning, development, and educational interventions"
   },
   {
     "objectID": "paser.html",
@@ -18,21 +18,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Izza Adnan\nSept. 2024 – Present\nUndergraduate Honours Thesis, Toronto Metropolitan University"
-  },
-  {
-    "objectID": "teaching.html#thesis-co-supervision",
-    "href": "teaching.html#thesis-co-supervision",
-    "title": "Teaching",
-    "section": "",
-    "text": "Izza Adnan\nSept. 2024 – Present\nUndergraduate Honours Thesis, Toronto Metropolitan University"
+    "text": "SOC481: Survey Design and Analysis\nSept. 2024 – Dec. 2024\nPSY511: Research Methods and Statistics II\nSept. 2023 – Dec. 2023\nPSY102: Introduction to Psychology I\nSept. 2022 – Apr. 2023"
   },
   {
     "objectID": "teaching.html#graduate-teaching-assistantships",
     "href": "teaching.html#graduate-teaching-assistantships",
     "title": "Teaching",
-    "section": "Graduate Teaching Assistantships",
-    "text": "Graduate Teaching Assistantships\nSOC481: Survey Design and Analysis\nSept. 2024 – Present\nPSY511: Research Methods and Statistics II\nSept. 2023 – Dec. 2023\nPSY102: Introduction to Psychology I\nSept. 2022 – Apr. 2023"
+    "section": "",
+    "text": "SOC481: Survey Design and Analysis\nSept. 2024 – Dec. 2024\nPSY511: Research Methods and Statistics II\nSept. 2023 – Dec. 2023\nPSY102: Introduction to Psychology I\nSept. 2022 – Apr. 2023"
   },
   {
     "objectID": "teaching.html#professional-development",
@@ -46,34 +39,34 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Bandi, L., Halili-Sychangco, D., Crone, G., & Counsell, A. (2024, June 21-23). The state of undergraduate statistics courses: Are we teaching modern skills in psychology? In R. Cribbie (Chair), Rethinking the Teaching of Statistics for Student Betterment [Symposium]. 85th Annual Canadian Psychological Association Convention, Ottawa, ON, Canada.\nBandi, L. (2024, March 26). Exploring statistical literacy: Measures, psychological factors, and pedagogical approaches [Area talk]. Toronto Metropolitan University Social Area Meeting (SAM), Toronto, ON, Canada."
+    "text": "Bandi, L., & Counsell, A. (2025, June 12-14). Statistical literacy: A necessary skill with limited measures. In A. Counsell (Chair), Assessing and teaching critical thinking in research methods and statistics: How are we doing? [Symposium]. 86th Annual Canadian Psychological Association Convention, St. John’s, NL, Canada.\nBandi, L., Halili-Sychangco, D., Crone, G., & Counsell, A. (2024, June 21-23). The state of undergraduate statistics courses: Are we teaching modern skills in psychology? In R. Cribbie (Chair), Rethinking the Teaching of Statistics for Student Betterment [Symposium]. 85th Annual Canadian Psychological Association Convention, Ottawa, ON, Canada.\nBandi, L. (2024, March 26). Exploring statistical literacy: Measures, psychological factors, and pedagogical approaches [Area talk]. Toronto Metropolitan University Social Area Meeting (SAM), Toronto, ON, Canada."
   },
   {
     "objectID": "research.html#presentations",
     "href": "research.html#presentations",
     "title": "Research",
     "section": "",
-    "text": "Bandi, L., Halili-Sychangco, D., Crone, G., & Counsell, A. (2024, June 21-23). The state of undergraduate statistics courses: Are we teaching modern skills in psychology? In R. Cribbie (Chair), Rethinking the Teaching of Statistics for Student Betterment [Symposium]. 85th Annual Canadian Psychological Association Convention, Ottawa, ON, Canada.\nBandi, L. (2024, March 26). Exploring statistical literacy: Measures, psychological factors, and pedagogical approaches [Area talk]. Toronto Metropolitan University Social Area Meeting (SAM), Toronto, ON, Canada."
+    "text": "Bandi, L., & Counsell, A. (2025, June 12-14). Statistical literacy: A necessary skill with limited measures. In A. Counsell (Chair), Assessing and teaching critical thinking in research methods and statistics: How are we doing? [Symposium]. 86th Annual Canadian Psychological Association Convention, St. John’s, NL, Canada.\nBandi, L., Halili-Sychangco, D., Crone, G., & Counsell, A. (2024, June 21-23). The state of undergraduate statistics courses: Are we teaching modern skills in psychology? In R. Cribbie (Chair), Rethinking the Teaching of Statistics for Student Betterment [Symposium]. 85th Annual Canadian Psychological Association Convention, Ottawa, ON, Canada.\nBandi, L. (2024, March 26). Exploring statistical literacy: Measures, psychological factors, and pedagogical approaches [Area talk]. Toronto Metropolitan University Social Area Meeting (SAM), Toronto, ON, Canada."
   },
   {
     "objectID": "research.html#posters",
     "href": "research.html#posters",
     "title": "Research",
     "section": "Posters",
-    "text": "Posters\nCounsell, A., Bandi, L., Loock, J., Herbert, M., & Martin, J. (2023, December 13-14). Using jamovi to support equitable access and learning in undergraduate statistics courses [Poster Presentation]. PsychTERMS 2023 Virtual Conference."
+    "text": "Posters\nKala, B., Gongati, S., Bandi, L., & Rao, V. N. V. (2025, July 17-19). Can using AI tools to do statistics broaden participation in STEM? [Poster Presentation]. Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) Research Satellite, Ames, Iowa, USA\nBandi, L., Loock, J., & Counsell, A. (2024, December 11-12). Hand calculations vs. software? Student attitudes about their value mirror their instructors [Poster Presentation]. PsychTERMS 2024 Virtual Conference.\nLoock, J., Bandi, L., & Counsell, A. (2024, December 11-12). Are we overstating the ubiquity of statistics anxiety in psychology? Meta-analytic evidence and insights [Poster Presentation]. PsychTERMS 2024 Virtual Conference.\nCounsell, A., Bandi, L., Loock, J., Herbert, M., & Martin, J. (2023, December 13-14). Using jamovi to support equitable access and learning in undergraduate statistics courses [Poster Presentation]. PsychTERMS 2023 Virtual Conference."
   },
   {
     "objectID": "research.html#research-experience",
     "href": "research.html#research-experience",
     "title": "Research",
     "section": "Research Experience",
-    "text": "Research Experience\n\nResearch Assistant\nPASER Lab – Toronto Metropolitan University\nJune 2022 – Present\nPI: Dr. Alyssa Counsell\n\n\nResearch Practicum Student\nMathematical Thinking Lab – Ontario Institute for Studies in Education of the University of Toronto\nMay 2023 – July 2024\nPI: Dr. Zachary Hawes\n\n\nLab Manager\nSocial Cognition Lab – York University\nSept. 2020 – Dec. 2021\nPI: Dr. Kerry Kawakami\n\n\nSpecialized Honours Thesis Student\nChalmers Lab – York University\nSept. 2020 – May 2021\nSupervisor: Dr. R. Philip Chalmers\nThesis title: The influence of extraversion on compliance with COVID-19 social restrictions\n\n\nVolunteer Research Assistant\nSocial Cognition Lab – York University\nSept. 2019 – Sept. 2020\nPI: Dr. Kerry Kawakami\nThe Mar Lab – York University\nSept. 2019 – Sept. 2020\nPI: Dr. Raymond Mar"
+    "text": "Research Experience\n\nResearch Assistant\nUniversity of Illinois Urbana-Champaign\nJan. 2025 – Present\nPI: Dr. V. N. Vimal Rao\nPASER Lab – Toronto Metropolitan University\nJune 2022 – Present\nPI: Dr. Alyssa Counsell\n\n\nResearch Practicum Student\nMathematical Thinking Lab – Ontario Institute for Studies in Education of the University of Toronto\nMay 2023 – July 2024\nPI: Dr. Zachary Hawes\n\n\nLab Manager\nSocial Cognition Lab – York University\nSept. 2020 – Dec. 2021\nPI: Dr. Kerry Kawakami\n\n\nSpecialized Honours Thesis Student\nChalmers Lab – York University\nSept. 2020 – May 2021\nSupervisor: Dr. R. Philip Chalmers\nThesis title: The influence of extraversion on compliance with COVID-19 social restrictions\n\n\nVolunteer Research Assistant\nSocial Cognition Lab – York University\nSept. 2019 – Sept. 2020\nPI: Dr. Kerry Kawakami\nThe Mar Lab – York University\nSept. 2019 – Sept. 2020\nPI: Dr. Raymond Mar"
   },
   {
     "objectID": "edu.html",
     "href": "edu.html",
     "title": "Education",
     "section": "",
-    "text": "Ph.D. in Psychological Science\nToronto Metropolitan University\n(Expected) 2028\nSupervisor: Dr. Alyssa Counsell\nThesis title: TBD\n\n\nM.A. in Psychological Science\nToronto Metropolitan University\n2024\nSupervisor: Dr. Alyssa Counsell\nThesis title: Developing a short-form version of the Basic Literacy In Statistics (BLIS-3) assessment\n\n\nB.A., Spec. Hons. in Psychology, summa cum laude\nYork University\n2022"
+    "text": "Ph.D. in Psychological Science\nToronto Metropolitan University\n(Expected) 2028\nSupervisor: Dr. Alyssa Counsell\nDissertation title: TBD\n\n\nM.A. in Psychological Science\nToronto Metropolitan University\n2024\nSupervisor: Dr. Alyssa Counsell\nThesis title: Developing a short-form version of the Basic Literacy In Statistics (BLIS-3) assessment\n\n\nB.A., Spec. Hons. in Psychology, summa cum laude\nYork University\n2022"
   }
 ]
