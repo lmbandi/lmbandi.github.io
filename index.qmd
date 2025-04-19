@@ -21,10 +21,20 @@ Hi there! I'm a first-year PhD student in Psychological Science at Toronto Metro
 
 **Research Interests**
 
--   Post-secondary students' statistical literacy, self-efficacy in learning statistics, attitudes towards statistics, and statistics anxiety
+-   **Teaching and Learning in Statistics and Research Methods Courses**\
 
--   Improving statistics and research methods courses in the social sciences
+    Investigating students’ self-efficacy, anxiety, and attitudes toward statistics; studying how learners across disciplines and degree levels engage with real-world data and statistical software\
 
--   Psychometrics and scale development
+    Evaluating instructional strategies to improve outcomes in statistics and research methods courses
 
--   Scholarship of teaching and learning
+-   **Statistical Literacy in Society**\
+
+    Examining how statistical literacy shapes understanding of information in politics, health, and media; developing modern, psychometrically sound tools to assess statistical literacy in the general population
+
+-   **Psychometrics and Scale Development** \
+
+    Applying item response theory and other psychometric techniques to develop and validate tools for assessing statistical literacy and learning-related constructs
+
+-   **Advanced Quantitative Methods in Educational Psychology**\
+
+    Promoting the use of advanced statistical methods to better understand learning, development, and educational interventions
