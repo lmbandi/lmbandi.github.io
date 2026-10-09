@@ -2,6 +2,11 @@
 title: "Teaching"
 ---
 
+## Research Mentorship
+
+University of Illinois Urbana-Champaign - Department of Statistics \
+*Jan. 2025 – May 2025*
+
 ## Graduate Teaching Assistantships
 
 **SOC481: Survey Design and Analysis**\
@@ -17,6 +22,6 @@ title: "Teaching"
 
 **Graduate Teaching Development Program** - Toronto Metropolitan University
 
--   Attended workshops exploring several Scholarship of Teaching and Learning (SoTL) topics
--   Completed two short courses: *Learning and Teaching in Higher Education I & II*
--   Participated in the Peer Observation of Teaching (POT) intensive workshop
+- Attended workshops exploring several Scholarship of Teaching and Learning (SoTL) topics
+- Completed two short courses: *Learning and Teaching in Higher Education I & II*
+- Participated in the Peer Observation of Teaching (POT) intensive workshop

@@ -21,24 +21,24 @@ Hi there! I'm a PhD student in Psychological Science at Toronto Metropolitan Uni
 
 **Research Interests**
 
--   **Teaching and Learning in Statistics and Research Methods Courses**
+- **Statistical Literacy in Society**
 
-    Investigating students’ self-efficacy, anxiety, and attitudes toward statistics
+  Examining how statistical literacy shapes understanding of information in politics, health, finance, and media
 
-    Studying how learners across disciplines and degree levels engage with statistics concepts and software
+  Developing a modern, psychometrically sound tool to assess statistical literacy in the general population
 
-    Evaluating instructional strategies to improve outcomes in statistics and research methods courses
+- **Psychometrics and Scale Development**
 
--   **Statistical Literacy in Society**
+  Applying item response theory and other psychometric techniques to develop and validate measurement tools
 
-    Examining how statistical literacy shapes understanding of information in politics, health, finance, and media
+- **Teaching and Learning in Statistics and Research Methods Courses**
 
-    Developing a modern, psychometrically sound tool to assess statistical literacy in the general population
+  Investigating students’ self-efficacy, anxiety, and attitudes toward statistics
 
--   **Psychometrics and Scale Development**
+  Studying how learners across disciplines and degree levels engage with statistics concepts and software
 
-    Applying item response theory and other psychometric techniques to develop and validate measurement tools
+  Evaluating instructional strategies to improve outcomes in statistics and research methods courses
 
--   **Advanced Statistical Methods in Educational Psychology Research**
+- **Advanced Statistical Methods in Educational Psychology Research**
 
-    Promoting the use of advanced statistical methods to better understand the effects of educational interventions
+  Promoting the use of advanced statistical methods to better understand the effects of educational interventions
